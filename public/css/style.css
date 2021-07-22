@@ -29,3 +29,9 @@ input {
 a {
   font-weight: 600;
 }
+
+.modal-text {
+    background-color: #90ee90;
+    height: fit-content + 17vh;
+    width: fit-content + 17vw;
+}
